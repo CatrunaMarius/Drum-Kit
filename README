@@ -1,0 +1,7 @@
+Functionalitati
+sunete -> este realizat cu ajutorul lui javaScript
+ cand apesi click pe una dintre imagini scoate sunetul instrumentului respectiv
+ iar daca apesi pe litera din imagine scoate suntul instrumentului respectiv
+
+butonel din html au un background cu imagini realizat in css
+pt a vede ce buton este apasa folosi un style in css numi .pressed  
